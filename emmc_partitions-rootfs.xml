@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Partition_Info>
+<Part Sel="1" PartitionName="fastboot" FlashType="emmc" FileSystem="none" Start="0" Length="1M" SelectFile="H:\电视盒子\海思\hi3798mv100\bak\hi3798mv100-ubuntu16.04\hi3798mv100-ubuntu16.04\fastboot-burn.bin"/>
+<Part Sel="1" PartitionName="bootargs" FlashType="emmc" FileSystem="none" Start="1M" Length="21M" SelectFile="H:\电视盒子\海思\hi3798mv100\bak\hi3798mv100-ubuntu16.04\hi3798mv100-ubuntu16.04\bootargs.bin"/>
+<Part Sel="1" PartitionName="kernel" FlashType="emmc" FileSystem="none" Start="22M" Length="8M" SelectFile="H:\电视盒子\海思\hi3798mv100\bak\hi3798mv100-ubuntu16.04\hi3798mv100-ubuntu16.04\hi_kernel.bin"/>
+<Part Sel="1" PartitionName="rootfs" FlashType="emmc" FileSystem="ext3/4" Start="30M" Length="-" SelectFile="H:\电视盒子\海思\hi3798mv100\bak\hi3798mv100-ubuntu16.04\hi3798mv100-ubuntu16.04\ubuntu-16-04.img"/>
+</Partition_Info>
